@@ -1,0 +1,5 @@
+# Собранные образы и бинарники
+*.tar
+youtube-monitor-cpp
+
+.DS_Store
